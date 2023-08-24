@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "aqueous-depth-395918",
+    "private_key_id": "38d24c14cd1398ba7035ae5c1e071ac039326a32",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRI9K4v+4sFNT8\nxY+57WZJ/5G9uOwjMdjPMsnvwuizS6gsEzmsgcQxStjCfOKWL9DEFglfcFxALAyP\ndVRs+VC8V67DgILSRdLXddPUsGmBNeeQ7CeznYDXHBYFdaEYnpyVqdbcVPHTeDLY\nnZWQw6AqDGQcf012WYtAEKjQptUwf/x8AT3Hoo/dWBkhZic3OVsrYUTW78XmSXOh\nHilPkD/Yo/cLQ8EiTCmf3Jkn2jYfgpBp4JsjkUi0gDef+SQL8Hk17zmOz8rDA98V\ngqe6Fum7fjb88Bg6+awmDRGsGNgMFPq8au2FsLQNnqQ/nDX/cr8GvG9X2yOXXHRW\nVdta8ZfXAgMBAAECggEAB9j+G2RJpcoi/dh/SVJBAC4rWVZQN2KI81QWuLz0ag9A\n4GUuSQIA4HqhrJaZaAT49/VTD7Y8d+9PNK40kfbpp8+V0AyJRtD2QD3RyjgpFVSg\n+6f+Ng1ccXXtK5zw2RF76FpxpLM5SclHsHzP88PWGuMmed1Fr6xc1HVrkudtC39I\nltFAZzHzoQ7EZUx/lLdmBzhy5jPZtXiinKBzL8vchpzLiliGdRDyOj3Sl68XhA4c\nSgx6oEwXJVbtprnAHagFdp9Gjk4fYH+o8cM729LMx4Xbz7l1qOEH9bhKOwW/Ilof\nGzA2V+4bp8RISuGxS65q93Gy5qWbvbleglTw8TSBYQKBgQDnrk/5+veMbpMXDiU2\nPa+5N8TijPFVQaKBMuBdNzyq2vcD3lBQS1PcoXVKphf4fyQ1I2eWPVXSY1c4WEa8\n50JqZg2T4wM9EPxm8dI9IRW3gqVzGwh9Y534/bi+aDTOrNaYqw5COecjXwYyqjky\n692qsHi/tJkXJ4hcCWfoZp/aIQKBgQDnF8syk5EX55+bMyvkD7IemW193B/vUS4P\nf9hjZYMJGaUpQiVXuYUDiA26cNujQ9zAIcRM1q5yZzjAgkfoTogDmzdss9S014TP\n3oxH7SLK4uFWA2WUChrGfnso6niSSdMPXNGjzahUt0bo3YwUF7lgsQo9JLkdxQXq\n1v0wRYXi9wKBgGZu+41bGPhOK1qWNn206GzL65D/H/TCAEd/ZxPPyFMCXRSoxnm5\n1GpIOMO4jACiti+IZ9RVagyLP5T58syysvq4BGjOhjAJwo8BfCLq7d8lNGGgIjDO\nSpo8E+Kb0D1QzdDSUIuXbkqFSQg9muyYvHkrbTfVcZp7MB8BSZ/HQAYBAoGBAK12\nLb9MBygjY6mSkoqAwZm4XviPR6VSkTlvJFUPuHkXN+MtVGxxxAcvk+ZzmloFsWjC\nr99hcdZL5syRvjoA4JWcZ9D/d1U7ROTnTvMaa/hQrwXqTM//ebOu8vF2doSQR44L\nhQzobUcRv3dB/UiDulF68o2MyCsxXcy2DZyzQtlnAoGBAIeRMNJeNmnEkRqQvYCV\nTwpE7GucVlqnwWkJxo1f0QhdZDus95aMOhWlB6erRgchRlfPVFrVN9LILiBMTjAX\nA7huX8SIWeIuVFvX1pEDhgQzPt4Rm4IH2WsR7su81tlrApIf7Zkr5TRBYmvLS3q5\n0TClklFavh7g85sBxishA78N\n-----END PRIVATE KEY-----\n",
+    "client_email": "lakhes@aqueous-depth-395918.iam.gserviceaccount.com",
+    "client_id": "111854905125862238858",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lakhes%40aqueous-depth-395918.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
